@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App related -->
+    <string name="app_name">High Existence</string>
+    <string name="app_punch_line">High Existence</string>
+    <string name="platform_name">Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_register">Register</string>
+    <string name="dialog_loading_title">Loading...</string>
+    <string name="dialog_loading_message">Connecting to server</string>
+
+    <!--Menu -->
+    <string name="menu_search">Search</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_notifcaiton">Notification</string>
+
+    <!--Font Path -->
+    <string name="DIN_Regular_Italic">fonts/din_comp_ita.ttf</string>
+    <string name="DIN_Regular">fonts/din_comp.ttf</string>
+    <string name="DIN_Medium">fonts/din_comp_medium.ttf</string>
+    <string name="DIN_Light">fonts/din_comp_light.ttf</string>
+    <string name="DIN_Light_Italic">fonts/din_comp_light_ita.ttf</string>
+
+    <!--Search for-->
+    <string name="location_search_page_text_1">Enter any location</string>
+    <string name="search_page_text_1">Search Mitoo for:</string>
+    <string name="search_page_text_3">Search for a league name or sport</string>
+
+    <!--String Helper -->
+    <string name="google_place_api_geocode">geocode</string>
+    <string name="google_place_api_locality">locality</string>
+    <string name="google_place_api_political">political</string>
+
+    <!--Error Message -->
+    <string name="error_401_incorrect_cred">Incorrect credentials, please try again</string>
+    <string name="error_404">The information you are trying to find can not be found</string>
+    <string name="error_409">We already have an account with that email. Please login to continue.</string>
+    <string name="error_422">We already have an account with that email. Please login to continue.</string>
+    <string name="error_500">It looks like we are having some technical difficulties. We are looking into it now.</string>
+    <string name="error_time_out">Connection timed out, please try again</string>
+    <string name="error_no_internet">Unable to connect to Mitoo. Check your connection and try again.</string>
+    <string name="error_incorrect_email_password_combo">We’re sorry but that was a miss. Please check your details and try again.</string>
+    <string name="error_user_not_confirmed">Please confirm your email/phone before logging in</string>
+    <string name="error_bad_email_prefix">No account exists for\n</string>
+    <string name="error_bad_email_suffix">.\nPlease check it and try again.</string>
+    <string name="error_409_already_confirmed">Already confirmed</string>
+    <string name="error_401_token_invalid">Token invalid, contact Mitoo if you like</string>
+
+    <!-- Prompts -->
+    <string name="prompt_location_services_title">Location Services</string>
+    <string name="prompt_location_services_message">Please turn on location services</string>
+    <string name="prompt_confirm_409_title">Already Confirmed</string>
+    <string name="prompt_confirm_409_Message">Your account has been confirmed.</string>
+    <string name="prompt_confirm_401_title">Link Expired</string>
+    <string name="prompt_confirm_401_Message">Sorry, this link has expired.</string>
+    <string name="prompt_success_title">Success</string>
+    <string name="prompt_settings_updated">Your notification settings has been updated</string>
+    <string name="prompt_yes">Yes</string>
+    <string name="prompt_no">No</string>
+    <string name="prompt_ok">OK</string>
+
+    <!--App -->
+    <string name="empty"></string>
+    <string name="bullet">\u2022</string>
+
+    <!--Toolbar Title-->
+    <string name="toolbar_placeholder">Place holder fragment</string>
+
+    <!--Shared Preference Hash Key -->
+    <string name="shared_preference_session_key">Session Key</string>
+    <string name="shared_preference_user_info_key">User Info Key</string>
+    <string name="shared_preference_error">shared preference error</string>
+    <string name="shared_preference_mobile_token_key">Mobile Token Key</string>
+    <string name="shared_preference_user_has_used_app">Not First Time User</string>
+
+    <!--Bundle Map Key -->
+    <string name="bundle_value_true">bundle_value_true</string>
+    <string name="bundle_value_false">bundle_value_false</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DIN_RegularItalic">
+        <item name="fontPath">@string/DIN_Regular_Italic</item>
+    </style>
+
+    <style name="DIN_Regular">
+        <item name="fontPath">@string/DIN_Regular</item>
+    </style>
+
+    <style name="DIN_Medium">
+        <item name="fontPath">@string/DIN_Medium</item>
+    </style>
+
+    <style name="DIN_Light">
+        <item name="fontPath">@string/DIN_Light</item>
+    </style>
+
+    <string name="bundle_key_confirm_token_key">bundle_key_confirm_token</string>
+    <string name="bundle_key_auth_token_key">bundle_key_auth_token</string>
+    
+</resources>

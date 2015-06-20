@@ -1,0 +1,57 @@
+<resources>
+
+    <!-- White <-> Black palette -->
+
+    <color name="pure_white">#FFFFFF</color>
+    <color name="white">#FEFEFE</color>
+    <color name="gray_light_one">#F5F5F5</color>
+    <color name="gray_light_two">#F2F2F2</color>
+    <color name="gray_light_three">#EBEBEB</color>
+    <color name="gray_light_four">#E4E4E4</color>
+    <color name="gray_light_five">#CACACA</color>
+    <color name="gray_light_six">#AFAFAF</color>
+    <color name="gray_light_seven">#AAAAAA</color>
+    <color name="gray_dark_one">#959595</color>
+    <color name="gray_dark_two">#8c8c8c</color>
+    <color name="gray_dark_three">#7b7b7b</color>
+    <color name="gray_dark_four">#616161</color>
+    <color name="gray_dark_five">#464646</color>
+    <color name="gray_dark_six">#4A4A4A</color>
+    <color name="gray_dark_seven">#2c2c2c</color>
+    <color name="gray_main">#283235</color>
+    <color name="gray_ext">#566973</color>
+
+    <color name="black">#121212</color>
+    <color name="transparent">#337b7b7b</color>
+    <color name="transparent_black">#4D000000</color>
+    <color name="transparent_white_60">#99FFFFFF</color>
+    <color name="transparent_white_50">#80FFFFFF</color>
+    <color name="transparent_white_30">#4DFFFFFF</color>
+    <color name="transparent_black_50">#80000000</color>
+    <color name="transparent_black_30">#4D000000</color>
+    <color name="transparent_dark_gray">#99121212</color>
+    <color name="over_lay_black">#4D000000</color>
+
+    <!-- basic colors -->
+
+    <!-- Identity palette -->
+
+    <color name="yellow">#FAB800</color>
+    <color name="orange">#F7921E</color>
+    <color name="red">#CC0104</color>
+    <color name="brown">#8A061B</color>
+    <color name="purple">#662c91</color>
+    <color name="blue_navy">#1840A5</color>
+    <color name="blue_sky">#4FADE3</color>
+    <color name="green">#009245</color>
+    <color name="blue_main">#00a6d6</color>
+
+    <!--Web UI palette -->
+
+    <color name="orange_light">#FFAA4A</color>
+    <color name="red_light">#F51F21</color>
+    <color name="blue_sky_light">#73C4F2</color>
+    <color name="green_light">#00C55D</color>
+    <color name="red_white">#FBEDED</color>
+
+</resources>
